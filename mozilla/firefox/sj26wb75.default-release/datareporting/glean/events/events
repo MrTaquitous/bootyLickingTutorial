@@ -1,0 +1,17 @@
+{"timestamp":4662853,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"can_load":"true","loadfail_reason":"N/A","path_key":"clean","glean_timestamp":"1786794732291"}}
+{"timestamp":4662853,"category":"session_restore","name":"backup_can_be_loaded_session_file","extra":{"loadfail_reason":"N/A","glean_timestamp":"1786794732291","can_load":"true","path_key":"clean"}}
+{"timestamp":4662853,"category":"session_restore","name":"shutdown_success_session_startup","extra":{"shutdown_ok":"false","glean_timestamp":"1786794732291","shutdown_reason":"N/A"}}
+{"timestamp":4663305,"category":"jsonfile","name":"load_logins","extra":{"glean_timestamp":"1786794732742","value":"error_notfounderror"}}
+{"timestamp":4663370,"category":"normandy","name":"expose_nimbus_experiment","extra":{"value":"vpn-mvp-beta-rollout-in-wave-1-countries","featureId":"ipProtection","branchSlug":"mvp-beta","glean_timestamp":"1786794732807"}}
+{"timestamp":4663370,"category":"nimbus_events","name":"exposure","extra":{"glean_timestamp":"1786794732808","experiment":"vpn-mvp-beta-rollout-in-wave-1-countries","branch":"mvp-beta","feature_id":"ipProtection"}}
+{"timestamp":4663433,"category":"nimbus_events","name":"startup_database_consistency","extra":{"trigger":"startup","glean_timestamp":"1786794732871","db_active_count":"29","total_db_count":"33","total_store_count":"33","store_active_count":"29","primary":"database"}}
+{"timestamp":4663494,"category":"jsonfile","name":"load_autofillprofiles","extra":{"glean_timestamp":"1786794732932","value":"error_notfounderror"}}
+{"timestamp":4663583,"category":"doh","name":"state_rollback","extra":{"value":"null","glean_timestamp":"1786794733021"}}
+{"timestamp":4663899,"category":"containers","name":"container_profile_loaded","extra":{"glean_timestamp":"1786794733337","containers":"4"}}
+{"timestamp":4664082,"category":"normandy","name":"enroll_failed_nimbus_experiment","extra":{"reason":"feature-conflict","value":"built-in-vpn-messaging-evergreen","glean_timestamp":"1786794733520"}}
+{"timestamp":4664082,"category":"nimbus_events","name":"enroll_failed","extra":{"reason":"feature-conflict","glean_timestamp":"1786794733520","experiment":"built-in-vpn-messaging-evergreen"}}
+{"timestamp":4664117,"category":"nimbus_events","name":"is_ready","extra":{"glean_timestamp":"1786794733555"}}
+{"timestamp":4664143,"category":"upgrade_dialog","name":"trigger_reason","extra":{"value":"not-major","glean_timestamp":"1786794733581"}}
+{"timestamp":4668440,"category":"normandy","name":"expose_nimbus_experiment","extra":{"featureId":"newtabTrainhopAddon","value":"new-tab-155120260811195042-to-release-153","branchSlug":"rollout","glean_timestamp":"1786794737878"}}
+{"timestamp":4668440,"category":"nimbus_events","name":"exposure","extra":{"glean_timestamp":"1786794737878","feature_id":"newtabTrainhopAddon","branch":"rollout","experiment":"new-tab-155120260811195042-to-release-153"}}
+{"timestamp":4675486,"category":"urlbar","name":"engagement","extra":{"groups":"heuristic,general","n_results":"2","search_mode":"","interaction":"typed","actions":"none,none","n_chars":"21","selected_result":"history","available_semantic_sources":"none","window_mode":"classic","selected_position":"2","provider":"UrlbarProviderPlaces","n_words":"1","results":"autofill_url,history","search_engine_default_id":"google-b-d","sap":"urlbar_newtab","engagement_type":"enter","glean_timestamp":"1786794744924"}}
